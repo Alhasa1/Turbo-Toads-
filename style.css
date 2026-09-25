@@ -1,0 +1,6 @@
+*{box-sizing:border-box} body{margin:0;background:#111827;color:#fff;font-family:system-ui,Arial,sans-serif;display:flex;min-height:100vh;align-items:center;justify-content:center}
+  .wrap{width:min(1000px,96vw)} h1{margin:0 0 8px;font-size:28px} p{margin:4px 0 12px;color:#cbd5e1}
+  canvas{width:100%;height:auto;display:block;border:3px solid #334155;border-radius:14px;background:#7dd3fc;image-rendering:pixelated}
+  .bar{display:flex;gap:12px;justify-content:space-between;align-items:center;margin:10px 2px;font-weight:700}
+  button{background:#22c55e;border:0;border-radius:9px;padding:9px 14px;font-weight:800;cursor:pointer}
+  .hint{font-size:13px;color:#94a3b8}
