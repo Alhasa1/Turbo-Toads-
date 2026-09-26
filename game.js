@@ -95,3 +95,4 @@ function draw(){
 }
 function loop(){update();draw();requestAnimationFrame(loop)}
 reset();loop();
+// Turbo Toads development - first Hackatime session!
